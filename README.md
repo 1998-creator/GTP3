@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# GTP3
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A responsive website built with react and CSS that has soft and pleasant animations to complex gradients that has perfectly 
+placed media queries for satisfactory responsiveness covering most devices.
 
 ## Available Scripts
 
